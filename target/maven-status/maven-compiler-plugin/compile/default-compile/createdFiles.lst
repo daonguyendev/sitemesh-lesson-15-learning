@@ -1,0 +1,5 @@
+com\daonguyen\entity\Role.class
+com\daonguyen\servlet\UserServlet.class
+com\daonguyen\entity\User.class
+com\daonguyen\servlet\HomeServlet.class
+com\daonguyen\servlet\RoleServlet.class
